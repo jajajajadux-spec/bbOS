@@ -1,0 +1,7 @@
+/build/
+/bbos-build/
+*.log
+*.o
+*.tar.gz
+*.tar.xz
+*.tar.bz2
