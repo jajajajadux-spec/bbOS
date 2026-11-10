@@ -1,5 +1,7 @@
 # BurntballOS (bbOS)
 
+![1](IMG_20261110_105452.png)
+
 bbOS is an experimental x86-64 Linux system with a small C init process, BusyBox
 userland, and `bbpkg`, a minimal package installer. This repository contains the
 project's source and build instructions. Generated compilers, downloaded upstream
